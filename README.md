@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+I'm Sean (Wu, Sung Tao). Nice to meet you.
 <!--
 **seanst11/seanst11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
